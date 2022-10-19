@@ -1,6 +1,6 @@
 # Description 
 
-Welcome to the naïve bayes section. We will be performing sentiment analysis using the Naive Bayes method. Specifically, we aim to: 
+Welcome to the naïve bayes section. Sentiment analysis using the Naive Bayes method will be perfomed in this module. Specifically, the goals for this project is to: 
 
 * Train a naive bayes model on a sentiment analysis task
 * Test using your model
@@ -8,6 +8,6 @@ Welcome to the naïve bayes section. We will be performing sentiment analysis us
 * Do some error analysis
 * Predict on your own tweet     
 
-All code and results could be found in `naive-bayes.ipynb`. 
+All code and results could be found in [naive-bayes.ipynb](./naive-bayes.ipynb). 
 
 Guided code and datasets credit to @DeepLearning.AI

@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # NLP-with-classification-and-vector-spaces
 
-A repository dedicated for Natural Language Processing with classification and vector spaces (a course from Coursera @DeepLearning.AI).    
+A repository is dedicated to Natural Language Processing with classification and vector spaces (a course from Coursera @DeepLearning.AI).    
 
 In this repository, I will be documenting down what I've learned from the course and projects. Projects completed can be found in sub-directories. See [Contents](#contents) below for more information. 
 
