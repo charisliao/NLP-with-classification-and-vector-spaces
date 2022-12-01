@@ -1,4 +1,4 @@
-# Decription 
+# Description 
 
 Welcome to the Vector Space Model section.     
 
