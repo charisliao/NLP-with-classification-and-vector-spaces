@@ -22,6 +22,9 @@ In this repository, I will be documenting down what I've learned from the course
 - [Vector Space Model](#overloading-the-stream-insertion-operator)
     - [Goal(s)](#goals-2)
     - [Files](./vector-space-model/)
+- [Machine Translation and Document Search](#machine-translation-and-document-search)
+  - [Goal(s)](#goals-3)
+  - [Files](./machine-translation-and-document-search)
 
 Sentiment Analysis with Logistic Regression
 ----------------------------
@@ -66,8 +69,23 @@ Concepts:
 - Euclidean distance
 - Co-occurrence matrices
 - Vector representations
-- Vector space models
+- Vector space models     
 
+Machine Translation and Document Search 
+---------------------------------------
+### Goals:     
+In order to perform machine translation and document search, we will learn to transform word vectors and assign them to subsets using locality sensitive hashing.     
+
+Concepts:     
+- Gradient descent
+- Approximate nearest neighbors
+- Locality sensitive hashing
+- Hash functions
+- Hash tables
+- K nearest neighbors
+- Document search
+- Machine translation
+- Frobenius norm
 
 
 
